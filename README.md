@@ -7,4 +7,4 @@ The r script run_analysis.r does the following.
 
 4. A second data set was created from all_data that grouped the average (mean) by each activity and subject:
 
-5. Please see Workbook.md for the fields names and lenghts.
+5. Please see Codebook.md for the fields names and lenghts.
